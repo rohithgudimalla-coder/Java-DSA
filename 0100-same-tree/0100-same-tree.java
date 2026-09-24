@@ -14,7 +14,8 @@
  * }
  */
 class Solution {
-    public boolean helper(TreeNode p,TreeNode q){
+    
+    public boolean isSameTree(TreeNode p, TreeNode q) {
         if(p==null && q==null){
             return true;
         }
@@ -24,11 +25,8 @@ class Solution {
         if(p.val!=q.val){
             return false;
         }
-        boolean a=helper(p.left,q.left);
-        boolean b=helper(p.right,q.right);
+        boolean a=isSameTree(p.left,q.left);
+        boolean b=isSameTree(p.right,q.right);
         return a&&b;
-    }
-    public boolean isSameTree(TreeNode p, TreeNode q) {
-        return helper(p,q);
     }
 }
