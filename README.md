@@ -31,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0101-symmetric-tree](https://github.com/rohithgudimalla-coder/Java-DSA/tree/main/0101-symmetric-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/rohithgudimalla-coder/Java-DSA/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0111-minimum-depth-of-binary-tree](https://github.com/rohithgudimalla-coder/Java-DSA/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
+| [0222-count-complete-tree-nodes](https://github.com/rohithgudimalla-coder/Java-DSA/tree/main/0222-count-complete-tree-nodes/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -52,8 +53,17 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0101-symmetric-tree](https://github.com/rohithgudimalla-coder/Java-DSA/tree/main/0101-symmetric-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/rohithgudimalla-coder/Java-DSA/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0111-minimum-depth-of-binary-tree](https://github.com/rohithgudimalla-coder/Java-DSA/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
+| [0222-count-complete-tree-nodes](https://github.com/rohithgudimalla-coder/Java-DSA/tree/main/0222-count-complete-tree-nodes/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/rohithgudimalla-coder/Java-DSA/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/rohithgudimalla-coder/Java-DSA/tree/main/0222-count-complete-tree-nodes/) | Medium |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/rohithgudimalla-coder/Java-DSA/tree/main/0222-count-complete-tree-nodes/) | Medium |
 <!---LeetCode Topics End-->
