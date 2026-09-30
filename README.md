@@ -33,6 +33,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0111-minimum-depth-of-binary-tree](https://github.com/rohithgudimalla-coder/Java-DSA/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0222-count-complete-tree-nodes](https://github.com/rohithgudimalla-coder/Java-DSA/tree/main/0222-count-complete-tree-nodes/) | Medium |
 | [0226-invert-binary-tree](https://github.com/rohithgudimalla-coder/Java-DSA/tree/main/0226-invert-binary-tree/) | Easy |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/rohithgudimalla-coder/Java-DSA/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/rohithgudimalla-coder/Java-DSA/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/rohithgudimalla-coder/Java-DSA/tree/main/0572-subtree-of-another-tree/) | Easy |
 ## Depth-First Search
@@ -43,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0104-maximum-depth-of-binary-tree](https://github.com/rohithgudimalla-coder/Java-DSA/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0111-minimum-depth-of-binary-tree](https://github.com/rohithgudimalla-coder/Java-DSA/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0226-invert-binary-tree](https://github.com/rohithgudimalla-coder/Java-DSA/tree/main/0226-invert-binary-tree/) | Easy |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/rohithgudimalla-coder/Java-DSA/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/rohithgudimalla-coder/Java-DSA/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/rohithgudimalla-coder/Java-DSA/tree/main/0572-subtree-of-another-tree/) | Easy |
 ## Breadth-First Search
@@ -53,6 +55,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0104-maximum-depth-of-binary-tree](https://github.com/rohithgudimalla-coder/Java-DSA/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0111-minimum-depth-of-binary-tree](https://github.com/rohithgudimalla-coder/Java-DSA/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0226-invert-binary-tree](https://github.com/rohithgudimalla-coder/Java-DSA/tree/main/0226-invert-binary-tree/) | Easy |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/rohithgudimalla-coder/Java-DSA/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -62,6 +65,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0111-minimum-depth-of-binary-tree](https://github.com/rohithgudimalla-coder/Java-DSA/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0222-count-complete-tree-nodes](https://github.com/rohithgudimalla-coder/Java-DSA/tree/main/0222-count-complete-tree-nodes/) | Medium |
 | [0226-invert-binary-tree](https://github.com/rohithgudimalla-coder/Java-DSA/tree/main/0226-invert-binary-tree/) | Easy |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/rohithgudimalla-coder/Java-DSA/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/rohithgudimalla-coder/Java-DSA/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/rohithgudimalla-coder/Java-DSA/tree/main/0572-subtree-of-another-tree/) | Easy |
 ## Math
@@ -88,4 +92,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0572-subtree-of-another-tree](https://github.com/rohithgudimalla-coder/Java-DSA/tree/main/0572-subtree-of-another-tree/) | Easy |
+## Binary Search Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/rohithgudimalla-coder/Java-DSA/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 <!---LeetCode Topics End-->
